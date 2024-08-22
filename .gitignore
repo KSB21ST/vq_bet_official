@@ -138,3 +138,5 @@ demos/
 logs/
 
 vqbet_datasets*
+
+*.egg-info

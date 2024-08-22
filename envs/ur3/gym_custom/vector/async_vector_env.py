@@ -23,7 +23,7 @@ class AsyncState(Enum):
 
 
 class AsyncVectorEnv(VectorEnv):
-    """Vectorized environment that runs multiple environments in parallel. It
+    """Vectorized environment that runs multiple environments in . It
     uses `multiprocessing` processes, and pipes for communication.
 
     Parameters

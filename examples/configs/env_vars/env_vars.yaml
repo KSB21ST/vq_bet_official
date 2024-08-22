@@ -1,8 +1,8 @@
 
 # TODO fill these out
-dataset_path: PATH_TO_YOUR_[env_name]_DATASET # (i.e. /home/user/vqbet/vqbet_datasets_for_release)
-save_path: YOUR_SAVE_PATH # (i.e. /home/user/vq-bet)
-wandb_entity: YOUR_WANDB_ENTITY
+dataset_path: /home/sbkim/vqbet/vq_bet_official/vqbet_datasets_for_release # (i.e. /home/user/vqbet/vqbet_datasets_for_release)
+save_path: /home/sbkim/vqbet/logs # (i.e. /home/user/vq-bet)
+wandb_entity: 21supersoo2-korea-advanced-institute-of-science-and-tech
 
 datasets:
     ant: ${env_vars.dataset_path}/ant
